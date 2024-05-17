@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\unversite files\Secoend Year\Data Structure\TSP Assigment\TSP Assigment\Graph.h(23,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TSP Assigment.vcxproj -> C:\unversite files\Secoend Year\Data Structure\TSP Assigment\x64\Debug\TSP Assigment.exe

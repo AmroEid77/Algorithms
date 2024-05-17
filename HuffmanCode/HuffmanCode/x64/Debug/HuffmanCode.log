@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\unversite files\Secoend Year\Data Structure\HuffmanCode\HuffmanCode\HuffmanCode.h(148,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  HuffmanCode.vcxproj -> C:\unversite files\Secoend Year\Data Structure\HuffmanCode\x64\Debug\HuffmanCode.exe

@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Graph.h(111,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Graph.h(109,1): message : while compiling class template member function 'void Graph<char>::printAllTopologicalOrders(void)'
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Source.cpp(26,36): message : see reference to function template instantiation 'void Graph<char>::printAllTopologicalOrders(void)' being compiled
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Source.cpp(7,17): message : see reference to class template instantiation 'Graph<char>' being compiled
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Graph.h(78,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Graph.h(75,1): message : while compiling class template member function 'void Graph<char>::addEdge(T,T)'
+          with
+          [
+              T=char
+          ]
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Source.cpp(10,18): message : see reference to function template instantiation 'void Graph<char>::addEdge(T,T)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Graph.h(85,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Graph.h(142,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Graph.h(141,1): message : while compiling class template member function 'int Graph<char>::size(void) const'
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Graph.h(130,82): message : see reference to function template instantiation 'int Graph<char>::size(void) const' being compiled
+C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\Topoligical Sort Assignment\Graph.h(140): warning C4715: 'Graph<char>::getKey': not all control paths return a value
+  Topoligical Sort Assignment.vcxproj -> C:\unversite files\Secoend Year\Data Structure\Topoligical Sort Assignment\x64\Debug\Topoligical Sort Assignment.exe
